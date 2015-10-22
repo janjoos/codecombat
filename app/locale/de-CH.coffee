@@ -147,7 +147,7 @@ module.exports = nativeDescription: "Dütsch (Schwiiz)", englishDescription: "Ge
     unwatch: "Nüm Aluege"
     submit_patch: "Patch ireiche"
     submit_changes: "Wechsel ireiche"
-#    save_changes: "Save Changes"
+#    save_changes: "Sichärä"
 
   general:
     and: "und"
